@@ -18,4 +18,16 @@ The **HealthCare Management System** is a Java-based application designed to str
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/HealthCare-Management-System.git
+   git clone https://github.com/your-username/HealthCareManagementSystem.git
+
+   HealthCareManagementSystem/
+├── src/
+│   ├── Main.java            # Entry point of the application
+│   ├── Patient.java         # Class for managing patient data
+│   ├── Appointment.java     # Class for managing appointments
+│   └── DatabaseConnection.java # Class for handling database operations
+├── resources/
+│   └── schema.sql           # SQL file to create necessary tables
+├── README.md                # Project overview and instructions
+└── LICENSE                  # Licensing information
+
