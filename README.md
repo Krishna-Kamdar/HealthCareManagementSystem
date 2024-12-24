@@ -31,3 +31,20 @@ The **HealthCare Management System** is a Java-based application designed to str
 ├── README.md                # Project overview and instructions
 └── LICENSE                  # Licensing information
 
+
+*Project Structure*
+
+HealthcareManagementSystem/
+├── templates/
+│   ├── login.html
+│   ├── register.html
+│   ├── profile.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── java/
+│   └── Main.java
+├── README.md
+
+
