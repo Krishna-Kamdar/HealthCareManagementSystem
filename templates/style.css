@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 500px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    color: #343a40;
+}
+
+.error-message {
+    font-size: 0.875em;
+    display: none;
+}
