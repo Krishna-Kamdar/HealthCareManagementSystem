@@ -8,12 +8,20 @@ The **HealthCare Management System** is a Java-based application designed to str
 - Schedule and manage appointments.
 - Track doctor availability.
 - Secure database connection for data storage.
+- Login and Registration pages with Bootstrap styling
+- Form validation using JavaScript
+- Fully responsive design
+
 
 ## Requirements
 - Java 17+
 - IDE: IntelliJ IDEA/Eclipse/VS Code
 - Database: MySQL/SQLite
 - JDBC Driver
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
 ## Setup and Installation
 1. Clone the repository:
@@ -30,4 +38,21 @@ The **HealthCare Management System** is a Java-based application designed to str
 │   └── schema.sql           # SQL file to create necessary tables
 ├── README.md                # Project overview and instructions
 └── LICENSE                  # Licensing information
+
+
+*Project Structure*
+
+HealthcareManagementSystem/
+├── templates/
+│   ├── login.html
+│   ├── register.html
+│   ├── profile.html
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── java/
+│   └── Main.java
+├── README.md
+
 
